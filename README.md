@@ -22,3 +22,9 @@ Uptime aims to bring the open source data community together to share best pract
 - James Arlen, Chief Information Security Officer at Aiven
 - Josep Prat, Open Source Engineering Manager at Aiven
 - Ana Vasiliuk, Community Manager at Aiven
+
+**Code of Conduct** 
+
+Uptime is an inclusive and harassment-free conference. We encourage all participants of the event to review our Code of Conduct.  
+
+**Questions? Please send them to hello@uptime.aiven.io.**
