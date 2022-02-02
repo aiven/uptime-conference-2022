@@ -27,8 +27,6 @@ Uptime aims to bring the open source data community together to share best pract
 
 Uptime is an inclusive and harassment-free conference. We encourage all participants of the event to review our Code of Conduct.  
 
-**Questions? Please send them to hello@uptime.aiven.io.**
-
 **Trademark**
 
 Apache Kafka and Apache Flink are either registered trademarks or trademarks of the Apache Software Foundation in the United States and/or other countries.
@@ -36,3 +34,5 @@ Apache Kafka and Apache Flink are either registered trademarks or trademarks of 
 * Redis is a trademark of Redis Ltd. Any rights therein are reserved to Redis Ltd. Any use by Aiven Oy is for referential purposes only and does not indicate any sponsorship, endorsement or affiliation between Redis and Aiven Oy.
 
 M3, OpenSearch, PostgreSQL, InfluxDB, Grafana are trademarks and property of their respective owners. All product and service names used in this website are for identification purposes only and do not imply endorsement.
+
+**Questions? Please send them to hello@uptime.aiven.io.**
