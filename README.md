@@ -5,11 +5,11 @@ Uptime aims to bring the open source data community together to share best pract
 
 **Important Dates**
 
-- Call for Papers (CFP) opens: February 2, 2022
+- Call for Papers (CFP) opens: February 3, 2022
 - Speaker Office Hours: March 1, 2022
 - Call for Papers closes: March 9, 2022
 - Speaker Notifications sent: mid-March 2022
-- Event dates: 
+- Event dates: September 14-15, 2022
 
 *Dates subject to change.*
 
