@@ -35,4 +35,4 @@ Redis is a trademark of Redis Ltd. Any rights therein are reserved to Redis Ltd.
 
 PostgreSQL, Grafana are trademarks and property of their respective owners. All product and service names used in this website are for identification purposes only and do not imply endorsement.
 
-**Questions? Please send them to hello@uptime.aiven.io.**
+**Questions? Please send them to floor.drees@aiven.io.**
