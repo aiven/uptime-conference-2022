@@ -24,11 +24,11 @@ Breaches of this Code of Conduct may result in disqualification from participati
 
 **Talk to Us**
 
-If you see or experience something that seems inappropriate or makes you or anyone else feel unsafe or uncomfortable, please tell us either personally or anonymously. Our team will respond to inquiries as soon as possible via [floor.drees@aiven.io] or anonymously via [the form]. If you feel comfortable enough or prefer to report an issue in-person, our conference staff can be identified by t-shirts.
+If you see or experience something that seems inappropriate or makes you or anyone else feel unsafe or uncomfortable, please tell us either personally or anonymously. Our team will respond to inquiries as soon as possible via [uptime@aiven.io] or anonymously via [the form](). If you feel comfortable enough or prefer to report an issue in-person, our conference staff can be identified by t-shirts.
 
 **Pre-Event Concerns**
 
-If you are planning to attend the upcoming event, whether in-person or virtually and have concerns regarding another individual who may be present, please contact us via [floor.drees@aiven.io]. Precautions will be taken to ensure your comfort and safety, including, but not limited to providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact.
+If you are planning to attend the upcoming event, whether in-person or virtually and have concerns regarding another individual who may be present, please contact us via [uptime@aiven.io]. Precautions will be taken to ensure your comfort and safety, including, but not limited to providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact.
 
 **COVID-19 Conduct Requirements**
 
