@@ -10,7 +10,7 @@ All event participants, whether they are attending an in-person event or a virtu
 
 **Unacceptable Behavior**
 
-Harassment and offensive behavior will not be tolerated in any form, whether in person or virtually, including, but not limited to, harassment based on gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or any other status protected by laws in which the conference or program is being held. 
+Harassment and offensive behavior will not be tolerated in any form, whether in person or virtually, including, but not limited to, harassment based on gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or any other status protected by laws in the country in which the conference or program is being held. 
 
 Harassment includes the use of abusive, offensive or degrading language, intimidation, stalking, harassing photography or recording, inappropriate physical contact, sexual imagery and unwelcome sexual advances or requests for sexual favors. Any report of harassment at one of our events, whether in person or virtual, will be addressed immediately. Participants asked to stop any harassing behavior are expected to comply immediately. Anyone who witnesses or is subjected to unacceptable behavior should notify a conference organizer or a member of the working group at once.
 
@@ -24,7 +24,7 @@ Breaches of this Code of Conduct may result in disqualification from participati
 
 **Talk to Us**
 
-If you see or experience something that seems inappropriate or makes you or anyone else feel unsafe or uncomfortable, please tell us either personally or anonymously. Our team will respond to inquiries as soon as possible via [uptime@aiven.io] or anonymously via [the form](). If you feel comfortable enough or prefer to report an issue in-person, our conference staff can be identified by t-shirts.
+If you see or experience something that seems inappropriate or makes you or anyone else feel unsafe or uncomfortable, please tell us either personally or anonymously. Our team will respond to inquiries as soon as possible via [uptime@aiven.io] or anonymously via [the form](https://forms.gle/d7KuW5RaUHwsNQBw6). If you feel comfortable enough or prefer to report an issue in-person, our conference staff can be identified by Uptime Staff t-shirts.
 
 **Pre-Event Concerns**
 
