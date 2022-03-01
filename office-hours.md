@@ -14,7 +14,7 @@ March 1, at 12pm CET (11:00 UTC / 3:00 PT / 21:00 AEST), and 7PM CET (18:00 UTC 
 **Quick links:**
 - The [Call for Speakers](https://sessionize.com/uptime-conference-2022/)
 - [Google Meet March 1, 12:00 - 13:00 CET](https://meet.google.com/vsb-cqpa-eek) 
-- [Google Meet March 1, 19:00 - 20:00 CET](meet.google.com/otp-cbhr-agd)
+- [Google Meet March 1, 19:00 - 20:00 CET](https://meet.google.com/otp-cbhr-agd)
 - [Code of Conduct](https://github.com/aiven/uptime-conference-2022/blob/main/code-of-conduct.md)
 
 
